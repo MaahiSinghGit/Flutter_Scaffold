@@ -1,16 +1,15 @@
 # scaffold
 
 A new Flutter project.
+# "simple use of flutter scaffold "
 
-## Getting Started
+## Overview of flutter scaffold...
 
-This project is a starting point for a Flutter application.
+It's a  Simple scaffold project using Dart .
 
-A few resources to get you started if this is your first Flutter project:
+The app is created by [Manoj Singh](https://www.linkedin.com/in/manojbishtt/) for helping out the beginners on how to use Scaffold in flutter development.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Show some :heart: and :star: the repo if you like the design.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WeatherApp](https://github.com/MaahiSinghGit/Weather-Website/blob/master/img/weather1.png)
+![WeatherApp](https://github.com/MaahiSinghGit/Weather-Website/blob/master/img/weather2.png)
