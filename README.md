@@ -11,5 +11,5 @@ The project is created by [Manoj Singh](https://www.linkedin.com/in/manojbishtt/
 
 ## Show some :heart: and :star: the repo if you like the design.
 
-![WeatherApp](https://github.com/MaahiSinghGit/Weather-Website/blob/master/img/weather1.png)
-![WeatherApp](https://github.com/MaahiSinghGit/Weather-Website/blob/master/img/weather2.png)
+![Sacffold](https://github.com/MaahiSinghGit/flutter_Scaffold/blob/master/Screenshot%20(129).png)
+![Scaffold](https://github.com/MaahiSinghGit/flutter_Scaffold/blob/master/Screenshot%20(130).png)
