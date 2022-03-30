@@ -7,7 +7,7 @@ A new Flutter project.
 
 It's a  Simple scaffold project using Dart .
 
-The app is created by [Manoj Singh](https://www.linkedin.com/in/manojbishtt/) for helping out the beginners on how to use Scaffold in flutter development.
+The project is created by [Manoj Singh](https://www.linkedin.com/in/manojbishtt/) for helping out the beginners on how to use Scaffold in flutter development.
 
 ## Show some :heart: and :star: the repo if you like the design.
 
