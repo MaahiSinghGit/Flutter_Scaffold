@@ -30,7 +30,8 @@ class MyApp extends StatelessWidget {
                   accountName: Text("maahi"),
                   accountEmail: Text("maahisingh@gmail.com"),
                   currentAccountPicture: CircleAvatar(
-                      backgroundColor: Colors.white, child: Text("maahi")),
+                      backgroundColor: Colors.white,
+                      child: Image.asset("assets\ms.jpeg")),
                 ),
                 ListTile(
                     leading: Icon(Icons.access_alarm),
