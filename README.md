@@ -5,7 +5,7 @@ A new Flutter project.
 
 ## Overview of flutter scaffold...
 
-It's a  Simple scaffold project using Dart .
+It's a  Simple scaffold project using flutter .
 
 The project is created by [Manoj Singh](https://www.linkedin.com/in/manojbishtt/) for helping out the beginners on how to use Scaffold in flutter development.
 
